@@ -1,1 +1,2 @@
-# automatic-shot-system
+# A.S.S
+## Automatic Shot System
